@@ -1,6 +1,7 @@
 # TimeScale Mod [FiveM]
 This mod for FiveM servers allows for server-wide slow motion, all through a **single customisable command in the chat!**
 Create cool and cinematic moments, while you're in the moment! Perfect to keybind for *just the right moment!*
+Showcase Video: https://www.youtube.com/watch?v=fL3nO64lSRQ
 
 ## Installation Instructions
 1. Download the repo as a zip.
