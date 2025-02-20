@@ -14,6 +14,7 @@ It's very simple, simply type in the chat /timescale [scale] [duration] to activ
 - Scale is a float (0.3, 0.5, 0.8). maximum is 1.0 (100% speed), but can be lowered down to a minimum of 0 (0% speed, time freezes until you choose to move). If left empty, will default to 0.5 (50% speed)
 - Duration is an integer (3, 15, 20) and represents ACTUAL seconds that the timescale lasts for (not in-game). Duration can be any amount of time bigger than 0 seconds. If left empty, will default to 10 seconds.
 So, if you choose to just type /timescale, it'll slow down the game speed to 50% for 10 seconds!
+Do also note that the command is, by default, **able to be used by everyone on the server.** If you wish to change this to admin-only, open up 'server.lua' in the mod files, and change line 10's false to a true. Afterwards, save and restart the server! :)
 
 If you wish to keybind the command, watch this video made by GuideRealm: https://youtu.be/yPRLDZkEoFg?si=RQPfckQdccF1Wval&t=23
 
