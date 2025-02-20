@@ -17,6 +17,7 @@ It's very simple, simply type in the chat /timescale [scale] [duration] to activ
 So, if you choose to just type /timescale, it'll slow down the game speed to 50% for 10 seconds!
 Do also note that the command is, by default, **able to be used by everyone on the server.** If you wish to change this to admin-only, open up 'server.lua' in the mod files, and change line 10's false to a true. Afterwards, save and restart the server! :)
 
-If you wish to keybind the command, watch this video made by GuideRealm: https://youtu.be/yPRLDZkEoFg?si=RQPfckQdccF1Wval&t=23
+If you wish to keybind the command, watch this video below (made by GuideRealm):
+https://youtu.be/yPRLDZkEoFg?si=RQPfckQdccF1Wval&t=23
 
 ...and that's it! I made this as I wanted to do cool stuff with my friends on our little servers we have, and here we are! Enjoy! :)
