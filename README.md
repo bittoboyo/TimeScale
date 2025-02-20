@@ -4,7 +4,7 @@ Create cool and cinematic moments, while you're in the moment! Perfect to keybin
 
 ## Installation Instructions
 1. Download the repo as a zip.
-2. Unzip to have the script ready!
+2. Unzip to have the script ready! (I would also recommend changing the name of the folder to just 'timescale' :P)
 3. Go to the resources folder of your FiveM server files, and drop the folder there!
 4. Then go to your server.cfg file and enter 'ensure timescale'.
 5. And you're done! Launch your FiveM server, and have fun!
